@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "0p1-d0-oDx"; */
+"0p1-d0-oDx.normalTitle" = "Like";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "2bB-b5-8lH"; */
+"2bB-b5-8lH.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7QR-VA-pcc"; */
+"7QR-VA-pcc.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Upload"; ObjectID = "874-ac-UH3"; */
+"874-ac-UH3.normalTitle" = "Upload";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "BDQ-vD-o5h"; */
+"BDQ-vD-o5h.text" = "Comment";
+
+/* Class = "UITextField"; placeholder = "Comment"; ObjectID = "CiR-NJ-CuT"; */
+"CiR-NJ-CuT.placeholder" = "Comment";
+
+/* Class = "UILabel"; text = "Instagram Clone"; ObjectID = "Gdx-ta-M36"; */
+"Gdx-ta-M36.text" = "Instagram Clone";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "SCE-tf-1cz"; */
+"SCE-tf-1cz.text" = "0";
+
+/* Class = "UILabel"; text = "useremail"; ObjectID = "VOY-sH-A1N"; */
+"VOY-sH-A1N.text" = "useremail";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "WAJ-ma-M83"; */
+"WAJ-ma-M83.normalTitle" = "Sign Up";
+
+/* Class = "UITabBarItem"; title = "Feed"; ObjectID = "ZIJ-tP-lLs"; */
+"ZIJ-tP-lLs.title" = "Feed";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "g0a-tI-Dcq"; */
+"g0a-tI-Dcq.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "LogOut"; ObjectID = "tDq-bi-vq7"; */
+"tDq-bi-vq7.normalTitle" = "LogOut";
+
+/* Class = "UITextField"; placeholder = "Email:"; ObjectID = "uOi-wf-MTU"; */
+"uOi-wf-MTU.placeholder" = "Email:";
+
+/* Class = "UITabBarItem"; title = "Upload"; ObjectID = "ud8-94-djM"; */
+"ud8-94-djM.title" = "Upload";
